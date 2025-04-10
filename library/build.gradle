@@ -57,7 +57,7 @@ dependencies {
     //AdMob mediation
     implementation 'com.google.ads.mediation:applovin:13.2.0.0'
     implementation 'com.google.ads.mediation:unity:4.14.1.0'
-    implementation 'com.google.ads.mediation:ironsource:8.7.0.1'
+    implementation 'com.google.ads.mediation:ironsource:8.8.0.0'
     implementation 'com.google.ads.mediation:facebook:6.19.0.1'
 
     //AdMob mediation
