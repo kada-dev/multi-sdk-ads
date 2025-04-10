@@ -4,7 +4,7 @@ A library for displaying ads from multiple ad networks
 Implementation build.gradle (Module: app)
 
 <pre>
-implementation 'com.github.kadamusta:sdk-multi-ads:2.+'
+implementation 'com.github.kadamusta:multi-sdk-ads:2.+'
 </pre>
 Open settings.gradle (Project Settings) and update the dependencyResolutionManagement
 <pre>
