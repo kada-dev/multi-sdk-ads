@@ -2,9 +2,9 @@
 A library for displaying ads from multiple ad networks
 
 Implementation build.gradle (Module: app)
-<pre>
+<blockquote>
 implementation 'com.github.kada-dev:sdk-multi-ads:2.+'
-</pre>
+</blockquote>
 <pre>
 implementation 'com.github.kada-dev:sdk-multi-ads:2.3.5'
 </pre>
